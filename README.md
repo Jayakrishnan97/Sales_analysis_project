@@ -10,9 +10,9 @@ This project focuses on analyzing sales data using SQL and Python. It includes a
 
 ## Repository Contents
 
-- **`analysis_queries.sql`**: Contains SQL queries for analyzing sales data.
-- **`project1.docx`**: Documentation of SQL queries with explanations and outputs.
-- **`Untitled2(1).ipynb`**: Jupyter Notebook for visualizing and analyzing sales trends.
+- **`sales_analysis_queries.sql`**: Contains SQL queries for analyzing sales data.
+- **`sales_analysis.docx`**: Documentation of SQL queries with explanations and outputs.
+- **`sales_analysis.ipynb`**: Jupyter Notebook for visualizing and analyzing sales trends.
 
 ## How to Use
 
@@ -26,7 +26,7 @@ This project focuses on analyzing sales data using SQL and Python. It includes a
    - Open the notebook `Untitled2(1).ipynb` in Jupyter or any Python environment.
    - Install necessary Python libraries:
      ```bash
-     pip install pandas matplotlib seaborn
+     pip install kaggle, zipfile, pandas, sqlalchemy, sqlalchemy(create_engine), psycopg2
      ```
    - Use the notebook to visualize and explore sales trends.
 
@@ -52,13 +52,13 @@ This project focuses on analyzing sales data using SQL and Python. It includes a
 - **Database**: PostgreSQL
 - **Programming Language**: SQL, Python
 - **Notebook**: Jupyter
-- **Libraries**: pandas, matplotlib, seaborn
+- **Libraries**: kaggle, zipfile, pandas, sqlalchemy, sqlalchemy(create_engine), psycopg2 
 
 ## Author
 
 - **Name**: Jayakrishnan Bhuvanendran  
 - **Email**: jayakrishnanb1997@gmail.com  
-- **Location**: Hyderabad, Telangana, India  
+- **Location**: India  
 
 ## License
 
